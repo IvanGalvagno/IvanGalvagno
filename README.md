@@ -32,7 +32,7 @@
  # 🐧 Social
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ivangalvagno1995) 
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/channels/Ivan%20Galvagno#3858)
-[<img src="https://img.shields.io/badge/Twitch-7289DA?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/1vanzera)
+[<img src="https://img.shields.io/badge/Twitch-7289DA?style=for-the-badge&logo=twitch&logoColor=purple" />](https://www.twitch.tv/1vanzera)
 
   
 <div align="center">
