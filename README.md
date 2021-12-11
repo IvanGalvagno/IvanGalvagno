@@ -4,8 +4,8 @@
    
 <div align="center">
   <a href="https://github.com/igsrc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igsrc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igsrc&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanGalvagno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanGalvagno&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div><br>
 
  ### 🛠️ Skills and Experience <h2>
