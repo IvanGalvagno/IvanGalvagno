@@ -1,6 +1,10 @@
-### Welcome stranger 👋
-   My name is Ivan, I'm graduated in Computer Science, currently working on Delphi, SQL and Typescript.
-  <div> 
+### Welcome stranger 👋   
+Software Engineer | Full Stack Developer
+
+Experienced software engineer with expertise in various technologies and frameworks. Skilled in Delphi, Firebird, MySQL, Oracle, NestJS, TypeScript/JavaScript, Redis, MongoDB, C#, and design patterns. Proficient in object-oriented programming (OOP) principles and practices. Also knowledgeable in Vue.js, Angular, Google Cloud Platform (GCP), PM2, Linux server basics, and certified in Git on LinkedIn. Additional skills include C++, Natural Language Processing (NLP), and Linear Regression.
+
+Passionate about building scalable and robust applications, I have a strong understanding of database systems, backend development, and frontend frameworks. With a keen eye for detail and a focus on clean code, I strive to deliver high-quality software solutions that meet customer requirements and drive business success.
+<div> 
    
  ### 🛠️ Skills and Experience <h2>
 <div style="display: inline_block"><br>
@@ -11,6 +15,12 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/patterns/patterns-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
 </div>
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> 
