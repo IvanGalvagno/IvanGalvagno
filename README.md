@@ -1,9 +1,10 @@
 ### Welcome stranger 👋   
-Software Engineer | Full Stack Developer
+Software Architect & Full Stack Engineer
+Experienced software architect and engineer with a strong background in leading development teams of up to 10 developers, driving projects across diverse industries such as Hospitality, Logistics, Supply Chain, and Foreign Trade (Comércio Exterior). Skilled in Node.js, Express, NestJS, Fastify, Go, TypeScript/JavaScript, C#, Delphi, and robust database architectures (Oracle, MySQL, PostgreSQL/TypeORM, Redis, MongoDB, Firebird).
 
-Experienced software engineer with expertise in various technologies and frameworks. Skilled in Delphi, Firebird, MySQL, Oracle, NestJS, TypeScript/JavaScript, Redis, MongoDB, C#, and design patterns. Proficient in object-oriented programming (OOP) principles and practices. Also knowledgeable in Vue.js, Angular, Google Cloud Platform (GCP), PM2, Linux server basics, and certified in Git on LinkedIn. Additional skills include C++, Natural Language Processing (NLP), and Linear Regression.
+Deeply passionate about modern system design, adept at implementing Spec Driven Design, DDD (Domain-Driven Design), EDA (Event-Driven Architecture), TDD, and clean architecture patterns. Proficient in full-stack ecosystems—including Vue.js, Angular, Wordpress, Elementor Pro, and modern rapid-development tools like Lovable—alongside infrastructure foundations like Docker, AWS/GCP, PM2, and Linux environments.
 
-Passionate about building scalable and robust applications, I have a strong understanding of database systems, backend development, and frontend frameworks. With a keen eye for detail and a focus on clean code, I strive to deliver high-quality software solutions that meet customer requirements and drive business success.
+Experienced in engineering leadership through Agile methodologies and Scrum, fostering high-performing teams, code quality standards, and scalable solutions that bridge complex business domains with high-impact technical results.
 <div> 
 <div align="center">
   <img src="https://media.giphy.com/media/ftHNle25rthTu19OAd/giphy-downsized.gif">
